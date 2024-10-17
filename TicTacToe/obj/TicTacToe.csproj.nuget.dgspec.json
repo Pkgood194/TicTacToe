@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
+    "c:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
+    "c:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "c:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+        "projectPath": "c:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\ui658887\\.nuget\\packages\\",
-        "outputPath": "C:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\obj\\",
+        "outputPath": "c:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ui658887\\AppData\\Roaming\\NuGet\\NuGet.Config",

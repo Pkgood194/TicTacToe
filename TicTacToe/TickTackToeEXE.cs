@@ -23,7 +23,9 @@ class Game
 
             if (IsWon == true)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Player 1 won!");
+                Console.ResetColor();
                 break;
             }
             else if (IsDraw == true)
@@ -41,7 +43,9 @@ class Game
 
             if (IsWon == true)
             {
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Player 2 won!");
+                Console.ResetColor();
                 break;
             }
             else if (IsDraw == true)

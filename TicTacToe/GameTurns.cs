@@ -51,8 +51,7 @@ namespace Gameturns
                 Console.Clear();
             } 
             catch{}
-            string Projection = Projector.FieldProjection(Fields);
-            Console.WriteLine(Projection);
+            Projector.FieldProjection(Fields);
         }
         public static bool DrawCheck(int[,] Fields)
         {

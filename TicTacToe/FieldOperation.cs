@@ -4,10 +4,10 @@ namespace FieldOperation
 {
     public class Projector
     {
-        public static string FieldProjection(int[,] Fields)
+        public static void FieldProjection(int[,] Fields)
         {
             string[,] Character = {{"","",""},{"","",""},{"","",""}};
-            
+            int WorkAround = 0;
             for (int row = 0; row < 3; row++)
             {
                 for (int column = 0; column < 3; column++)
@@ -15,24 +15,29 @@ namespace FieldOperation
                     switch (Fields[row, column])
                     {
                         case 0:
-                            Character[row, column] = "[]";
+                            Console.Write(" [] ");
+                            WorkAround++;
                             break;
                         case 1:
-                            Character[row, column] = "O";
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.Write(" O ");
+                            WorkAround++;
                             break;
                         case 2:
-                            Character[row, column] = "X";
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            Console.Write(" X ");
+                            WorkAround++;
                             break;
                     }
+                    Console.ResetColor();
+                    if (WorkAround <= 2)
+                    {
+                        Console.Write(" | ");
+                    }
                 }
+                Console.Write("\n");
+                WorkAround = 0;
             }
-
-            string Projection = $@"
-            {Character[0,0]} | {Character[0,1]} | {Character[0,2]}
-            {Character[1,0]} | {Character[1,1]} | {Character[1,2]}
-            {Character[2,0]} | {Character[2,1]} | {Character[2,2]}";
-            
-            return Projection;
         }
     }
     public class Changer
