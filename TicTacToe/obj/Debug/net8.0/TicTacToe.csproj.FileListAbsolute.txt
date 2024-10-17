@@ -1,0 +1,14 @@
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+c:\Users\ui658887\Documents\Visual Studio 2022\TickTackToe\TicTacToe\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
