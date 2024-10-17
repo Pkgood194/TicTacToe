@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ui658887\\Documents\\Visual Studio 2022\\TickTackToe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\ui658887\\Documents\\Visual Studio 2022\\TickTackToe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "C:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\ui658887\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ui658887\\Documents\\Visual Studio 2022\\TickTackToe\\TicTacToe\\TicTacToe\\obj\\",
+      "outputPath": "C:\\Eigene_Dateien\\GitRepositories\\TicTacToe\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ui658887\\AppData\\Roaming\\NuGet\\NuGet.Config",
